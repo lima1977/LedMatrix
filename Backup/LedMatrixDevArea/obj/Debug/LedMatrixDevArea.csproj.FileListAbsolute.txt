@@ -1,0 +1,9 @@
+C:\Users\2101478702\Source\Repos\LedMatrix\Backup\LedMatrixDevArea\bin\Debug\LedMatrixDevArea.exe
+C:\Users\2101478702\Source\Repos\LedMatrix\Backup\LedMatrixDevArea\bin\Debug\LedMatrixDevArea.pdb
+C:\Users\2101478702\Source\Repos\LedMatrix\Backup\LedMatrixDevArea\obj\Debug\LedMatrixDevArea.csproj.AssemblyReference.cache
+C:\Users\2101478702\Source\Repos\LedMatrix\Backup\LedMatrixDevArea\obj\Debug\LedMatrixDemoInterfaceNamespace.DisplayForm.resources
+C:\Users\2101478702\Source\Repos\LedMatrix\Backup\LedMatrixDevArea\obj\Debug\LedMatrixDevArea.Properties.Resources.resources
+C:\Users\2101478702\Source\Repos\LedMatrix\Backup\LedMatrixDevArea\obj\Debug\LedMatrixDevArea.csproj.GenerateResource.cache
+C:\Users\2101478702\Source\Repos\LedMatrix\Backup\LedMatrixDevArea\obj\Debug\LedMatrixDevArea.csproj.CoreCompileInputs.cache
+C:\Users\2101478702\Source\Repos\LedMatrix\Backup\LedMatrixDevArea\obj\Debug\LedMatrixDevArea.exe
+C:\Users\2101478702\Source\Repos\LedMatrix\Backup\LedMatrixDevArea\obj\Debug\LedMatrixDevArea.pdb
